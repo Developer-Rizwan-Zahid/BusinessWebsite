@@ -14,7 +14,7 @@ const Hero = () => {
               <Mail className='text-blue-700' />
               <input type="text" placeholder='Enter your Mail Address' className='w-[150px] md:w-[250px]' />
             </div>
-            <button className='bg-orange-800 text-white px-4 py-2 rounded-sm'>Join Us Now</button>
+            <button className='bg-orange-800 text-white px-4 py-2 rounded-sm '>Join Now</button>
           </div>
         </div>
         <img src={HeroImg}  alt="" className='w-[600px]' />
